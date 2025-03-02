@@ -1,7 +1,6 @@
-package tn.esprit.tpfoyer.entities;
+package tn.esprit.tpfoyer.entitiy;
 
 import jakarta.persistence.*;
-import jdk.jfr.BooleanFlag;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
