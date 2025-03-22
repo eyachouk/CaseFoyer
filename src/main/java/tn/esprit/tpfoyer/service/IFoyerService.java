@@ -13,5 +13,7 @@ public interface IFoyerService {
     public Foyer saveFoyer(Foyer foyer);
     public Foyer updateFoyer(Foyer foyer);
     public void deleteFoyer(Foyer foyer);
+    public Foyer ajouterFoyerEtAffecterAUniversite(Foyer foyer, long idUniversite);
 
-}
+
+    }
